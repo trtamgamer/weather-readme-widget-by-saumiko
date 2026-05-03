@@ -31,10 +31,10 @@ Calculations & adjustments are done and the [widget](https://github.com/saumiko/
 
 1. Configure your repository
 	- [Fork my repository](https://github.com/saumiko/weather-readme-widget/fork)
-	- [Edit the configurations](https://github.com/saumiko/weather-readme-widget/blob/master/api/config.ini)
-		 - [ ] [Location Dict](https://github.com/saumiko/weather-readme-widget/blob/dac00febabee2bc9c406cf78aa4a92ca7088333f/api/config.ini#L7)
-		 - [ ] [Timezone Dict](https://github.com/saumiko/weather-readme-widget/blob/dac00febabee2bc9c406cf78aa4a92ca7088333f/api/config.ini#L12)
-	- [Edit GitHub info](https://github.com/saumiko/weather-readme-widget/blob/dac00febabee2bc9c406cf78aa4a92ca7088333f/api/weather.py#L14)
+	- [Edit the configurations]([https://github.com/saumiko/weather-readme-widget/blob/master/api/config.ini](https://github.com/trtamgamer/weather-readme-widget-by-saumiko/blob/master/api/config.ini))
+		 - [ ] [Location Dict]([https://github.com/saumiko/weather-readme-widget/blob/dac00febabee2bc9c406cf78aa4a92ca7088333f/api/config.ini](https://github.com/trtamgamer/weather-readme-widget-by-saumiko/blob/master/api/config.ini)#L7)
+		 - [ ] [Timezone Dict]([https://github.com/saumiko/weather-readme-widget/blob/dac00febabee2bc9c406cf78aa4a92ca7088333f/api/config.ini](https://github.com/trtamgamer/weather-readme-widget-by-saumiko/blob/master/api/config.ini)#L12)
+	- [Edit GitHub info]([https://github.com/saumiko/weather-readme-widget/blob/dac00febabee2bc9c406cf78aa4a92ca7088333f/api/weather.py](https://github.com/trtamgamer/weather-readme-widget-by-saumiko/blob/master/api/weather.py)#L14)
 		 - [ ] `GITHUB_USERNAME`
 		 - [ ] `GITHUB_REPO`
 		 - [ ] `GIT_BRANCH`
